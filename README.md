@@ -1,1 +1,1 @@
-<p style="color:green;">💻 Hello, world</p>
+<p>💻 Hello, world</p>
