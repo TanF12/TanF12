@@ -1,2 +1,1 @@
-<p>💻 Hello, world!</p>
-<p>Cientista da Computação, Engenheiro Elétrico, e guitarrista no tempo livre</p>
+<p>Cientista da computação, engenheiro eletricista, e guitarrista no tempo livre</p>
