@@ -1,1 +1,1 @@
-<p>Cientista da computação, engenheiro eletricista e guitarrista no tempo livre</p>
+<p>Cientista da computação e guitarrista no tempo livre</p>
